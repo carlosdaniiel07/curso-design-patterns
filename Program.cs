@@ -8,4 +8,6 @@ var abstractFactory03 = new curso_design_patterns.Creational.AbstractFactory.Exa
 var factory01 = new curso_design_patterns.Creational.Factory.Example01.App();
 var factory02 = new curso_design_patterns.Creational.Factory.Example02.App();
 
-factory02.Run();
+var singleton01 = new curso_design_patterns.Creational.Singleton.Example01.App();
+
+singleton01.Run();
