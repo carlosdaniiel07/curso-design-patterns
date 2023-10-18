@@ -5,4 +5,7 @@ var abstractFactory01 = new curso_design_patterns.Creational.AbstractFactory.Exa
 var abstractFactory02 = new curso_design_patterns.Creational.AbstractFactory.Example02.App();
 var abstractFactory03 = new curso_design_patterns.Creational.AbstractFactory.Example03.App();
 
-abstractFactory03.Run();
+var factory01 = new curso_design_patterns.Creational.Factory.Example01.App();
+var factory02 = new curso_design_patterns.Creational.Factory.Example02.App();
+
+factory02.Run();
