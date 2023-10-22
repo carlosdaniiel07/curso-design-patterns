@@ -10,4 +10,6 @@ var factory02 = new curso_design_patterns.Creational.Factory.Example02.App();
 
 var singleton01 = new curso_design_patterns.Creational.Singleton.Example01.App();
 
-singleton01.Run();
+var adapter01 = new curso_design_patterns.Structural.Adapter.Example01.App();
+
+adapter01.Run();
