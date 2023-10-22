@@ -11,5 +11,7 @@ var factory02 = new curso_design_patterns.Creational.Factory.Example02.App();
 var singleton01 = new curso_design_patterns.Creational.Singleton.Example01.App();
 
 var adapter01 = new curso_design_patterns.Structural.Adapter.Example01.App();
+var adapter02 = new curso_design_patterns.Structural.Adapter.Example02.App();
+var adapter03 = new curso_design_patterns.Structural.Adapter.Example03.App();
 
-adapter01.Run();
+adapter03.Run();
