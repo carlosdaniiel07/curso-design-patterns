@@ -14,4 +14,6 @@ var adapter01 = new curso_design_patterns.Structural.Adapter.Example01.App();
 var adapter02 = new curso_design_patterns.Structural.Adapter.Example02.App();
 var adapter03 = new curso_design_patterns.Structural.Adapter.Example03.App();
 
-adapter03.Run();
+var facade01 = new curso_design_patterns.Structural.Facade.Example01.App();
+
+facade01.Run();
