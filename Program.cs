@@ -18,4 +18,7 @@ var facade01 = new curso_design_patterns.Structural.Facade.Example01.App();
 
 var composite01 = new curso_design_patterns.Structural.Composite.Example01.App();
 
-composite01.Run();
+var command01 = new curso_design_patterns.Behavorial.Command.Example01.App();
+var command02 = new curso_design_patterns.Behavorial.Command.Example02.App();
+
+command02.Run();
