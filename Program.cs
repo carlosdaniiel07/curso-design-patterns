@@ -21,4 +21,7 @@ var composite01 = new curso_design_patterns.Structural.Composite.Example01.App()
 var command01 = new curso_design_patterns.Behavorial.Command.Example01.App();
 var command02 = new curso_design_patterns.Behavorial.Command.Example02.App();
 
-command02.Run();
+var strategy01 = new curso_design_patterns.Behavorial.Strategy.Example01.App();
+var strategy02 = new curso_design_patterns.Behavorial.Strategy.Example02.App();
+
+strategy02.Run();
