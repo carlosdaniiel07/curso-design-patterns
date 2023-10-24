@@ -24,4 +24,6 @@ var command02 = new curso_design_patterns.Behavorial.Command.Example02.App();
 var strategy01 = new curso_design_patterns.Behavorial.Strategy.Example01.App();
 var strategy02 = new curso_design_patterns.Behavorial.Strategy.Example02.App();
 
-strategy02.Run();
+var observer01 = new curso_design_patterns.Behavorial.Observer.Example01.App();
+
+observer01.Run();
